@@ -26,6 +26,13 @@
 ### 👩🏽‍💻 About Me :
 I am a Data Analyst 🧮 from India.
 
+- :telescope: I’m working as an Applications Development Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing and the USA ✈️.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks, read tech articles and go on treks 🥾.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/gunjan0509/))
 
 <!--
 **GunSharm/GunSharm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
