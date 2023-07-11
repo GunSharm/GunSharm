@@ -34,6 +34,12 @@ I am a Data Analyst 🧮 from India.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/gunjan0509/))
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GunSharm&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunSharm&layout=compact&theme=vision-friendly-dark)](https://github.com/GunSharm/github-readme-stats)
 <!--
 **GunSharm/GunSharm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
