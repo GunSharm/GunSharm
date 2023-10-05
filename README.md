@@ -37,7 +37,6 @@ I am a Data Analyst 🧮 from India.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GunSharm&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GunSharm&layout=compact&theme=vision-friendly-dark)](https://github.com/GunSharm/github-readme-stats)
 <!--
